@@ -1,0 +1,217 @@
+country_name,region,gdp,year
+United States,Americas,"25,035,164",2022
+China,Asia,"18,321,197",2022
+Japan,Asia,"4,300,621",2022
+Germany,Europe,"4,031,149",2022
+India,Asia,"3,468,566",2022
+United Kingdom,Europe,"3,198,470",2022
+France,Europe,"2,778,090",2022
+Canada,Americas,"2,200,352",2022
+Russia,Europe,"2,133,092",2022
+Italy,Europe,"1,996,934",2022
+Iran,Asia,"1,973,738",2022
+Brazil,Americas,"1,894,708",2022
+South Korea,Asia,"1,734,207",2022
+Australia,Oceania,"1,724,787",2022
+Mexico,Americas,"1,424,533",2022
+Spain,Europe,"1,389,927",2022
+Indonesia,Asia,"1,289,429",2022
+Saudi Arabia,Asia,"1,010,588",2022
+Netherlands,Europe,"990,583",2022
+Turkey,Asia,"853,487",2022
+Taiwan,Asia,"828,659",2022
+Switzerland,Europe,"807,418",2022
+Poland,Europe,"716,305",2022
+Argentina,Americas,"630,698",2022
+Sweden,Europe,"603,922",2022
+Belgium,Europe,"589,491",2022
+Thailand,Asia,"534,758",2022
+Israel,Asia,"527,179",2022
+Ireland,Europe,"519,776",2022
+Norway,Europe,"504,703",2022
+Nigeria,Africa,"504,203",2022
+United Arab Emirates,Asia,"503,913",2022
+Egypt,Africa,"469,094",2022
+Austria,Europe,"468,046",2022
+Bangladesh,Asia,"460,751",2022
+Malaysia,Asia,"434,059",2022
+Singapore,Asia,"423,632",2022
+Vietnam,Asia,"413,808",2022
+South Africa,Africa,"411,480",2022
+Philippines,Asia,"401,662",2022
+Denmark,Europe,"386,724",2022
+Pakistan,Asia,"376,493",2022
+Hong Kong,Asia,"368,373",2022
+Colombia,Americas,"342,919",2022
+Chile,Americas,"310,866",2022
+Romania,Europe,"299,885",2022
+Czech Republic,Europe,"296,238",2022
+Iraq,Asia,"282,876",2022
+Finland,Europe,"281,411",2022
+Portugal,Europe,"255,854",2022
+New Zealand,Oceania,"242,700",2022
+Peru,Americas,"239,333",2022
+Kazakhstan,Asia,"224,338",2022
+Greece,Europe,"222,008",2022
+Qatar,Asia,"221,369",2022
+Ukraine,Europe,"199,719",2021
+Algeria,Africa,"187,155",2022
+Hungary,Europe,"184,651",2022
+Kuwait,Asia,"183,568",2022
+Morocco,Africa,"142,874",2022
+Angola,Africa,"124,794",2022
+Puerto Rico,Americas,"118,677",2022
+Ecuador,Americas,"115,469",2022
+Kenya,Africa,"114,858",2022
+Slovakia,Europe,"112,418",2022
+Dominican Republic,Americas,"112,417",2022
+Ethiopia,Africa,"111,181",2022
+Oman,Asia,"108,969",2022
+Cuba,Americas,—,"107,352"
+Guatemala,Americas,"91,318",2022
+Bulgaria,Europe,"85,008",2022
+Luxembourg,Europe,"82,154",2022
+Venezuela,Americas,"82,145",2022
+Belarus,Europe,"79,704",2022
+Uzbekistan,Asia,"79,117",2022
+Tanzania,Africa,"76,582",2022
+Ghana,Africa,"75,996",2022
+Turkmenistan,Asia,"74,439",2022
+Sri Lanka,Asia,"73,739",2022
+Uruguay,Americas,"71,161",2022
+Panama,Americas,"71,085",2022
+Azerbaijan,Asia,"70,066",2022
+Croatia,Europe,"69,380",2022
+Ivory Coast,Africa,"68,630",2022
+Costa Rica,Americas,"68,489",2022
+Lithuania,Europe,"68,031",2022
+DR Congo,Africa,"63,909",2022
+Serbia,Europe,"62,721",2022
+Slovenia,Europe,"62,191",2022
+Myanmar,Asia,"59,530",2022
+Uganda,Africa,"48,352",2022
+Jordan,Asia,"48,066",2022
+Tunisia,Africa,"46,282",2022
+Cameroon,Africa,"44,212",2022
+Bahrain,Asia,"43,544",2022
+Bolivia,Americas,"43,431",2022
+Sudan,Africa,"42,762",2022
+Paraguay,Americas,"41,855",2022
+Libya,Africa,"40,836",2022
+Latvia,Europe,"40,588",2022
+Estonia,Europe,"39,054",2022
+Nepal,Asia,"39,028",2022
+Zimbabwe,Africa,"38,280",2022
+El Salvador,Americas,"31,989",2022
+Papua New Guinea,Oceania,"31,362",2022
+Honduras,Americas,"30,568",2022
+Trinidad and Tobago,Americas,"29,337",2022
+Cambodia,Asia,"28,330",2022
+Iceland,Europe,"27,702",2022
+Yemen,Asia,"27,594",2022
+Senegal,Africa,"27,542",2022
+Zambia,Africa,"27,025",2022
+Cyprus,Asia,"26,705",2022
+Georgia,Europe,"25,172",2022
+Bosnia and Herzegovina,Europe,"23,681",2022
+Macau,Asia,"23,420",2022
+Gabon,Africa,"22,221",2022
+Haiti,Americas,"20,182",2022
+Afghanistan,Asia,"20,136",2020
+Guinea,Africa,"19,745",2022
+Palestine,Asia,"19,698",2022
+Brunei,Asia,"18,464",2022
+Mali,Africa,"18,434",2022
+Burkina Faso,Africa,"18,268",2022
+Albania,Europe,"18,256",2022
+Lebanon,Asia,"24,494",2020
+Botswana,Africa,"18,005",2022
+Mozambique,Africa,"17,873",2022
+Armenia,Asia,"17,693",2022
+Benin,Africa,"17,547",2022
+Malta,Europe,"17,156",2022
+Equatorial Guinea,Africa,"16,877",2022
+Laos,Asia,"16,250",2022
+Jamaica,Americas,"16,104",2022
+North Korea,Asia,—,—
+Mongolia,Asia,"15,720",2022
+Nicaragua,Americas,"15,695",2022
+Syria,Asia,—,"11,080"
+Madagascar,Africa,"15,106",2022
+Guyana,Americas,"14,839",2022
+Niger,Africa,"14,639",2022
+Congo,Africa,"14,486",2022
+North Macedonia,Europe,"14,101",2022
+Moldova,Europe,"14,048",2022
+Chad,Africa,"12,945",2022
+Bahamas,Americas,"12,693",2022
+Namibia,Africa,"12,488",2022
+Rwanda,Africa,"12,098",2022
+Malawi,Africa,"11,554",2022
+Mauritius,Africa,"11,497",2022
+Mauritania,Africa,"10,091",2022
+Tajikistan,Asia,"9,983",2022
+Kyrgyzstan,Asia,"9,750",2022
+New Caledonia,Oceania,—,"10,071"
+Kosovo,Europe,"9,242",2022
+Somalia,Africa,"8,416",2022
+Togo,Africa,"8,359",2022
+Bermuda,Americas,—,"7,081"
+Liechtenstein,Europe,—,"6,114"
+Monaco,Europe,—,"8,596"
+Cayman Islands,Americas,—,"5,898"
+Montenegro,Europe,"6,127",2022
+Maldives,Asia,"5,900",2022
+Guam,Oceania,—,"6,123"
+Barbados,Americas,"5,788",2022
+French Polynesia,Oceania,—,"6,055"
+Fiji,Oceania,"4,859",2022
+South Sudan,Africa,"4,784",2022
+Eswatini,Africa,"4,669",2022
+Sierra Leone,Africa,"4,101",2022
+Liberia,Africa,"3,900",2022
+Djibouti,Africa,"3,725",2022
+Burundi,Africa,"3,686",2022
+Aruba,Americas,"3,499",2022
+Andorra,Europe,"3,302",2022
+Greenland,Americas,—,"3,076"
+Suriname,Americas,"3,011",2022
+Bhutan,Asia,"2,707",2022
+Belize,Americas,"2,676",2022
+Lesotho,Africa,"2,507",2022
+Curaçao,Americas,—,"2,700"
+Central African Republic,Africa,"2,488",2022
+East Timor,Asia,"2,455",2022
+Eritrea,Africa,"2,369",2022
+Gambia,Africa,"2,172",2022
+Cape Verde,Africa,"2,053",2022
+Seychelles,Africa,"2,005",2022
+Saint Lucia,Americas,"1,972",2022
+Zanzibar,Africa,—,—
+Antigua and Barbuda,Americas,"1,692",2022
+Guinea-Bissau,Africa,"1,624",2022
+San Marino,Europe,"1,623",2022
+Solomon Islands,Oceania,"1,601",2022
+British Virgin Islands,Americas,—,—
+Comoros,Africa,"1,242",2022
+Grenada,Americas,"1,192",2022
+Northern Mariana Islands,Oceania,—,"1,182"
+Saint Kitts and Nevis,Americas,"1,115",2022
+Vanuatu,Oceania,984,2022
+Saint Vincent and the Grenadines,Americas,948,2022
+Turks and Caicos Islands,Americas,—,943
+Sint Maarten,Americas,—,"1,186"
+Samoa,Oceania,830,2022
+American Samoa,Oceania,—,709
+Dominica,Americas,599,2022
+São Tomé and Príncipe,Africa,506,2022
+Tonga,Oceania,501,2022
+Micronesia,Oceania,428,2022
+Cook Islands,Oceania,—,—
+Marshall Islands,Oceania,271,2022
+Anguilla,Americas,—,—
+Palau,Oceania,226,2022
+Kiribati,Oceania,207,2022
+Nauru,Oceania,134,2022
+Montserrat,Americas,—,—
+Tuvalu,Oceania,64,2022

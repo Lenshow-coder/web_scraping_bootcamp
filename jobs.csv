@@ -1,0 +1,25 @@
+title,full_time,part_time,distance,requirements
+Production Team Member 4AM,True,True,0.0,['Time Availability: 4am-11am']
+Team Member,True,True,0.0,[]
+Team Member,True,True,0.0,"['Demonstrate a passion for hospitality and creating exceptional Guest experiences.', 'Be able to work under pressure while maintaining food safety standards.', 'Have a passion for serving, making food and beverages and good time management.', 'Be able to learn how to operate various equipment, carry boxes up to 25lbs, working in cold environment as freezer/ fridge.', 'Enjoy working with a successful team in a safe environment.', 'Have a strong work ethic, be punctual and responsible.', 'Previous experience in guest service field is an asset.', 'Have or pursuing a post-secondary diploma in Hospitality management or related fields is an asset but not required.', 'Flexible availability is preferred']"
+Team Member,True,True,0.2,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']"
+Team Member,True,True,0.5,"['Demonstrate a passion for hospitality and creating exceptional Guest experiences.', 'Be able to work under pressure while maintaining food safety standards.', 'Have a passion for serving, making food and beverages and good time management.', 'Be able to learn how to operate various equipment, carry boxes up to 25lbs, working in cold environment as freezer/ fridge.', 'Enjoy working with a successful team in a safe environment.', 'Have a strong work ethic, be punctual and responsible.', 'Previous experience in guest service field is an asset.', 'Have or pursuing a post-secondary diploma in Hospitality management or related fields is an asset but not required.', 'Flexible availability is preferred']"
+Membre d'équipe,True,True,0.6,[]
+Employé responsable de la production,True,True,0.6,[]
+Manager,True,False,0.6,[]
+Team Member,True,True,0.6,[]
+Production Team Member,True,True,0.6,[]
+Team Member,True,True,1.1,[]
+Production Team Member 4AM,True,True,1.1,['Time Availability: 4am-11am']
+Team Member,True,True,2.1,"['Demonstrate a passion for hospitality and creating exceptional Guest experiences.', 'Be able to work under pressure while maintaining food safety standards.', 'Have a passion for serving, making food and beverages and good time management.', 'Be able to learn how to operate various equipment, carry boxes up to 25lbs, working in cold environment as freezer/ fridge.', 'Enjoy working with a successful team in a safe environment.', 'Have a strong work ethic, be punctual and responsible.', 'Previous experience in guest service field is an asset.', 'Have or pursuing a post-secondary diploma in Hospitality management or related fields is an asset but not required.', 'Flexible availability is preferred']"
+Restaurant Manager,True,False,2.1,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule', 'Previous management experience preferred']"
+Team Member,True,False,2.1,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']"
+Supervisor,True,False,2.2,[]
+Restaurant Manager,True,False,2.2,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule', 'Previous management experience preferred']"
+Team Member,True,False,2.2,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']"
+Restaurant Manager,True,False,2.4,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule', 'Previous management experience preferred']"
+Team Member,True,False,2.4,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']"
+Restaurant Manager,True,False,2.5,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule', 'Previous management experience preferred']"
+Team Member,True,False,2.5,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']"
+Handyman / Handywoman,True,True,2.5,[]
+Team Member,True,False,2.5,"['Customer service background preferred', 'Must be able to lift 25 lbs', 'Previous experience in Quick Service an asset', 'Friendly and outgoing', 'Flexible schedule']"
