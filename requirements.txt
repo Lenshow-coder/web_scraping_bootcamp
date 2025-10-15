@@ -10,7 +10,7 @@ pandas>=1.5.3
 numpy>=1.24.2
 
 # Browser automation
-playwright>=1.30.0
+playwright>=1.30.0 ## "playwright install chromium" to use chrome
 
 # Utilities
 tabulate>=0.9.0
